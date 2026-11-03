@@ -14,8 +14,8 @@ A Python desktop app for encrypting and decrypting photos, with user login. It w
 The app needs Tkinter, which is included with most Python installers.
 
 ```bash
-git clone https://github.com/JumanahAlmatrood/photos-encryption.git
-cd photos-encryption
+git clone https://github.com/JumanahAlmatrood/photo-encryption-desktop.git
+cd photo-encryption-desktop
 pip install -r requirements.txt
 python main.py
 ```
@@ -33,4 +33,4 @@ Python, Tkinter, cryptography, Pillow
 
 ## Related project
 
-[photo-encryption](https://github.com/JumanahAlmatrood/photo-encryption) is a Flask web version of this idea.
+[photo-encryption-web](https://github.com/JumanahAlmatrood/photo-encryption-web) is a Flask web version of this idea.
